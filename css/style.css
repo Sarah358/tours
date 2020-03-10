@@ -1,0 +1,25 @@
+body{
+    background-color: white !important;
+}
+#sign{
+    background-image: url(https://www.intergise.com/wp-content/uploads/2019/06/title-weaver-bird.jpg);
+    background-repeat: no-repeat;
+    background-position: center center;
+    background-attachment: scroll;
+    background-size: cover;
+}
+#icons a{
+    color: yellow;
+}
+#icons a:hover{
+    color:rgb(245, 237, 237);
+}
+#foot{
+    border-bottom: 1px solid rgb(139, 134, 134);
+}
+#icon{
+    color:black;  
+}
+#icon:hover{
+    color: yellow;
+}
